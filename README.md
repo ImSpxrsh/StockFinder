@@ -33,8 +33,15 @@ IE: Tesla Inc. Is TSLA
 *Support For Linux (IE: Unbuntu,Kali)
 *Add in support for the Polygon.io API 
 
+**Development Info**
+Written in VS Code
+Compiled as a .exe in Launch4J
+Developed in JDK 21.0.2
+Test in JRE 21.0.2
+
 ** Comment **
 Share this project to others as I spent way to much time on it
 I had to rewrite the code 3 times
 Had to test multiple API's
+Had a failed attempt at webscrapping
 and ran into other problems along the way
