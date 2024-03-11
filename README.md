@@ -19,8 +19,6 @@ This Java application allows users to interactively look up the current stock pr
 * Windows Device or MAC device with WineBottler (USE AT RISK) installed (Intel Based Mac's with Windows Using Bootcamp Work To)
 * Windows Server 16+ or Windows 10+
 
-**Running the Application**
-Just have JRE 21 installed and a windows machine to run this app!
 
 **How To Use**
 When promted to for a stock symbol
@@ -34,14 +32,17 @@ IE: Tesla Inc. Is TSLA
 *Add in support for the Polygon.io API 
 
 **Development Info**
-Written in VS Code
-Compiled as a .exe in Launch4J
-Developed in JDK 21.0.2
-Test in JRE 21.0.2
+*Written in VS Code
+*Compiled as a .exe in Launch4J
+*Developed in JDK 21.0.2
+*Tested in JRE 21.0.2
 
-** Comment **
-Share this project to others as I spent way to much time on it
-I had to rewrite the code 3 times
-Had to test multiple API's
-Had a failed attempt at webscrapping
-and ran into other problems along the way
+**Having Issues?**
+Put any Issues in the issue tab!
+
+**Comment**
+*Share this project to others as I spent way to much time on it
+*I had to rewrite the code 3 times
+*Had to test multiple API's
+*Had a failed attempt at webscrapping
+*and ran into other problems along the way
