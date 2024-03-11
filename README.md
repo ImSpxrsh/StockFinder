@@ -32,3 +32,9 @@ IE: Tesla Inc. Is TSLA
 *Make it so you can type company name instead of stock symbol
 *Support For Linux (IE: Unbuntu,Kali)
 *Add in support for the Polygon.io API 
+
+** Comment **
+Share this project to others as I spent way to much time on it
+I had to rewrite the code 3 times
+Had to test multiple API's
+and ran into other problems along the way
