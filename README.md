@@ -28,7 +28,7 @@ Type the SYMBOL not Comapny Name
 IE: Tesla Inc. Is TSLA
 
 **Plans For The Future**
-Implement a better GUI and move away from a console interface
-Make it so you can type company name instead of stock symbol
-Support For Linux (IE: Unbuntu,Kali)
-Add in support for the Polygon.io API 
+*Implement a better GUI and move away from a console interface
+*Make it so you can type company name instead of stock symbol
+*Support For Linux (IE: Unbuntu,Kali)
+*Add in support for the Polygon.io API 
