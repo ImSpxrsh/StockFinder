@@ -1,0 +1,30 @@
+## Stock Price Fetcher - Created By Sparsh Roy
+
+
+This Java application allows users to interactively look up the current stock price of a company by entering its symbol. It retrieves data from Yahoo Finance's API and displays the price to the console.
+
+**Features**
+
+* User-friendly interface for entering stock symbols.
+* Fetches data from Yahoo Finance API (limited to 1-day interval).
+* Parses JSON response to extract the stock price.
+* Handles errors gracefully, including invalid symbols and network issues.
+* Allows users to exit the program by entering "EXIT".
+
+**Requirements**
+
+* Java Runtime Environment (JRE) 21 or later
+
+**Running the Application**
+Just have JRE 21 installed and a windows machine to run this app!
+
+**How To Use**
+When promted to for a stock symbol
+Type the SYMBOL not Comapny Name
+IE: Tesla Inc. Is TSLA
+
+**Plans For The Future**
+Implement a better GUI and move away from a console interface
+Make it so you can type company name instead of stock symbol
+
+
