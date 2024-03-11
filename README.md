@@ -6,7 +6,7 @@ This Java application allows users to interactively look up the current stock pr
 **Features**
 
 * User-friendly interface for entering stock symbols.
-* Fetches data from Yahoo Finance API (limited to 1-day interval).
+* Fetches data from Yahoo Finance API .
 * Parses JSON response to extract the stock price.
 * Handles errors gracefully, including invalid symbols and network issues.
 * Allows users to exit the program by entering "EXIT" or clicking the Escape Button.
