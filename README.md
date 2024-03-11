@@ -21,26 +21,31 @@ This Java application allows users to interactively look up the current stock pr
 
 
 **How To Use**
+
 When promted to for a stock symbol
 Type the SYMBOL not Comapny Name
 IE: Tesla Inc. Is TSLA
 
 **Plans For The Future**
+
 *Implement a better GUI and move away from a console interface
 *Make it so you can type company name instead of stock symbol
 *Support For Linux (IE: Unbuntu,Kali)
 *Add in support for the Polygon.io API 
 
 **Development Info**
+
 *Written in VS Code
 *Compiled as a .exe in Launch4J
 *Developed in JDK 21.0.2
 *Tested in JRE 21.0.2
 
 **Having Issues?**
+
 Put any Issues in the issue tab!
 
 **Comment**
+
 *Share this project to others as I spent way to much time on it
 *I had to rewrite the code 3 times
 *Had to test multiple API's
