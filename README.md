@@ -16,7 +16,7 @@ This Java application allows users to interactively look up the current stock pr
 **Requirements**
 
 * Java Runtime Environment (JRE) 21 or later
-* Windows Device or MAC device with WineBottler (USE AT RISK) installed (Intel Based Mac's with Windows Using Bootcamp Work To)
+* Windows Device or MAC device with WineBottler (USE AT RISK) installed (Intel Based Mac's with Windows Using Bootcamp Work Too)
 * Windows Server 16+ or Windows 10+
 
 
